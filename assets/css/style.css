@@ -1,0 +1,43 @@
+h1{
+
+    color: red;
+    font-size: 50px;
+
+}
+
+#ap{
+
+    color: aqua;
+}
+
+.apellido{
+
+    color: blue;
+
+}
+
+.card-title{
+    color: black !important;
+    font-weight: bold !important;
+}
+
+.card-rose{
+    background-color: #EF28F7;
+}
+
+
+footer {
+    background: #212529;
+  }
+  
+
+  [type="checkbox"]:not(:checked)
+  {
+    opacity: 1 !important;
+  }
+
+  [type="checkbox"]:not(:checked), [type="checkbox"]:checked {
+    opacity: 1 !important;
+    pointer-events: all !important;
+
+  }
